@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "368666854606",
+    "project_id": "webview-f51d5",
+    "storage_bucket": "webview-f51d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368666854606:android:401a39721b80aa88fd7c9f",
+        "android_client_info": {
+          "package_name": "com.particledrawing.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368666854606-qmej5co3cu7q0jmp07ns5dpl26km86to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CzakFqUr4jbR9PXZJLIdJAo-lMwf91s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368666854606-qmej5co3cu7q0jmp07ns5dpl26km86to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368666854606-vr2j3sdien8depbb1qoj7k99biqtj2is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.particledrawing.webview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
