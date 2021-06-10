@@ -1,4 +1,4 @@
-package com.particledrawing.webview
+package com.particledrawing.webview2
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -63,7 +63,6 @@ class _NavBarPageState extends State<NavBarPage> {
           BottomNavigationBarItem(
             icon: FaIcon(
               FontAwesomeIcons.windowMaximize,
-              color: Color(0xFF9E9E9E),
               size: 24,
             ),
             label: 'Web',
