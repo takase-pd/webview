@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:368666854606:android:77e425f2482f299dfd7c9f",
+        "mobilesdk_app_id": "1:368666854606:android:ae4c826fe6fa5856fd7c9f",
         "android_client_info": {
-          "package_name": "com.particledrawing.webview2"
+          "package_name": "com.particledrawing.webview3"
         }
       },
       "oauth_client": [
