@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.particledrawing.webview3">
+    package="com.particledrawing.webview5">
    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="web_view"
